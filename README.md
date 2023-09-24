@@ -12,7 +12,7 @@
 
 ## 下記の **"環境準備"** と **"反映手順"** の動画デモ
 
-https://github.com/shimomura-tsubuan/mergeGitHubMembersForAdmina/assets/26238953/ab9f02f2-ac41-4c42-870d-8bf0731c699c  
+https://github.com/shimomura-tsubuan/mergeGitHubMembersForAdmina/assets/26238953/04ffa48c-b339-4836-836f-9f6e9986de56
 
 ※動画中にAPIキーが表示されますが、そのAPIキーは既に削除済ですので悪用はできません。  
 
