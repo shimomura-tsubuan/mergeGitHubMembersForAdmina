@@ -8,8 +8,15 @@
 - GitHubではIDがEmailベースではなくUsernameベースだからです。  
 - (Usernameベースなので社員マスタのIDと一致できず「不明なアカウント」となる)  
 - これを解消するには 「[SaaSアカウントを他のアカウントに手動で紐付け（名寄せ/マージ）する](https://support.itmc.i.moneyforward.com/l/ja/article/d97dy5z2l7-merge)」 という手順でマージできるのですが、正直面倒です。  
-- そのため、GitHubのユーザー名とそのユーザー名のメールアドレスを記載したスプレッドシートを用意しておくことでこのマージ作業を楽にします。  
-  
+- そのため、GitHubのユーザー名とそのユーザー名のメールアドレスを記載したスプレッドシートを用意しておくことでこのマージ作業を楽にします。
+
+## 下記の **"環境準備"** と **"反映手順"** の動画デモ
+
+https://github.com/shimomura-tsubuan/mergeGitHubMembersForAdmina/assets/26238953/ab9f02f2-ac41-4c42-870d-8bf0731c699c  
+
+※動画中にAPIキーが表示されますが、そのAPIキーは既に削除済ですので悪用はできません。  
+
+
 ## 環境準備
 
 1.  [このスプレッドシート](https://docs.google.com/spreadsheets/d/14opkC09G-Az_mn8t69hOOdu6PBE-MSha-EOdMp2EnVo/edit#gid=0) を開き、自分のGoogle Workspaceの環境にコピーします。
